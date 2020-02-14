@@ -1,5 +1,5 @@
 {
-  "name": "deep-clone-js",
+  "name": "deep-obj-clone-js",
   "version": "1.0.0",
   "description": "A JS module that allows for easy and fast deep cloning of JSON objects",
   "main": "index.js",
@@ -16,5 +16,5 @@
   ],
   "author": "TheLebDev",
   "license": "ISC",
-  "homepage": "https://github.com/thelebdev/deep-clone-js"
+  "homepage": "https://github.com/thelebdev/deep-obj-clone-js"
 }
