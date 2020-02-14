@@ -1,6 +1,7 @@
 # DeepObjCloneJS
 
 DeepObjCloneJS is a Javascript library that allows for easy and fast cloning of deeply nested Javascript Objects and Arrays.
+The perk here is that the functionality applied here is nearly 50% faster than using `JSON.stringify(JSON.parse(object))` and Loadash's `deepClone` function.
 
 ## Installation
 
