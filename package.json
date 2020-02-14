@@ -1,0 +1,19 @@
+{
+  "name": "deep-clone-js",
+  "version": "1.0.0",
+  "description": "A JS module that allows for easy and fast deep cloning of JSON objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "nodejs",
+    "json",
+    "clone",
+    "copy"
+  ],
+  "author": "TheLebDev",
+  "license": "ISC"
+}
