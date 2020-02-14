@@ -15,5 +15,6 @@
     "copy"
   ],
   "author": "TheLebDev",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/thelebdev/deep-clone-js"
 }
