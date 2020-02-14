@@ -26,5 +26,17 @@ Please make sure to update tests as appropriate.
 ## Help Needed
 I'm unfamiliar with GitHub's hooks, actions, pipeline, etc. So if anyone can contribute by helping me out build that pipeline, that would be great.
 
+## Specs
+
+Version: 1.0.2
+
+Total Size: 1.98 KiB
+
+Total Dependencies: 0
+
+Tarball Size: 2.0 KiB
+
+Direct Dependencies: 0
+
 ## License
 [ISC](https://choosealicense.com/licenses/isc/)
