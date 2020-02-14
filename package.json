@@ -4,7 +4,7 @@
   "description": "A JS module that allows for easy and fast deep cloning of JSON objects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --recursive tests/ --timeout 60000 --exit"
   },
   "keywords": [
     "js",
@@ -16,5 +16,8 @@
   ],
   "author": "TheLebDev",
   "license": "ISC",
-  "homepage": "https://github.com/thelebdev/deep-obj-clone-js"
+  "homepage": "https://github.com/thelebdev/deep-obj-clone-js",
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
 }

@@ -47,4 +47,4 @@ lib = {
     }
 };
 
-modules.export = lib;
+module.exports = lib;
