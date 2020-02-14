@@ -50,3 +50,12 @@ describe('Basic Object Cloning Test', function () {
         assert.equal(TO_CLONE.related.basis.which.steel.join.satisfied, "ordinary");
     })
 });
+
+describe('Basic Javascript Copying Test', function() {
+    it('should not return TO_CLONE.related.basis.which.steel.join.satisfied = "ordinary"', function () {
+        let clonedObj = TO_CLONE;
+
+        clonedObj.related.basis.which.steel.join.satisfied = "not ordinary";
+        assert.notEqual(TO_CLONE.related.basis.which.steel.join.satisfied, "ordinary");
+    })
+})
